@@ -1,4 +1,4 @@
-*
+/*
    Find merge point of two linked lists
    Node is defined as
    struct Node
