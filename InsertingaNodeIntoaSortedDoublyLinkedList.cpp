@@ -14,7 +14,7 @@ Node* SortedInsert(Node *head,int data)
 
     Node *n=new Node;
     n->data=data;
-    n->next=NULL;n->prev=NULL;
+   // n->next=NULL;n->prev=NULL;
     if(head==NULL){return n;}
     
         if((head->data)>data){
